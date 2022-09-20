@@ -1,0 +1,42 @@
+.home{
+    display:flex;
+    flex-direction: column;
+    height:100vh;
+}
+.home-header{
+    display: flex;
+    justify-content: space-between;
+    padding:20px 30px;
+    align-items: center;
+}
+/* To style a link tag, we actually use 'a' tag to select all the links. */
+.home-header a{
+    margin-right: 20px;
+    text-decoration: inherit;
+    color:rgba(0,0,0,0.87);
+    font-size: 15px;
+}
+.home-header a:hover{
+    text-decoration: underline;
+}
+.header-right{
+    display:flex;
+    align-items: center;
+    min-width: 13vw;
+    justify-content: space-between;
+}
+.header-right>.MuiSvgIcon-root{
+    margin-right: 20px;
+}
+/* By default the google logo image got centered as the parent(.home) has a flex direction column which allows image to take up equal spans of width around both sides of the image. */
+.home-body{
+    display: flex;
+    flex-direction: column;
+    flex:1;
+    margin-top: 5%;
+}
+.home-body>img{
+    object-fit: contain;
+    height:100px;
+}
+
