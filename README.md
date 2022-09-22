@@ -33,8 +33,7 @@ API.
 
 ## 🚀 About Me
 
-Hi, this is Shirso Bhattacharyya. I'm a full stack developer based in India. I've always enjoyed working in different varieties of projects to enhance my experience in developing a variety of websites with different set of features and functionalities.
-Please feel free to drop off a text for collaborations or even if you wanna just say 'hi'.
+Hi, this is Shirso Bhattacharyya. I'm a full-stack MERN developer based in India. I've always enjoyed working on different projects to enhance my experience in developing various websites with varying features and functionalities. Please feel free to drop off a text for collaborations or even if you wanna just say 'hi'
 
 
 ## Feedback
