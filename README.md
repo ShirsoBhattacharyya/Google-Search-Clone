@@ -6,7 +6,7 @@
 This project attempts to demonstrate the functionalities of a search engine website like Google.
 The search results are displayed according to what the user searches in the search box. The search results are fetched from live google 
 API.
-
+#### Deployment Link: https://google-clone-shirso.netlify.app/
 
 
 ## Screenshots
